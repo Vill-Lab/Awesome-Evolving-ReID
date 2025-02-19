@@ -21,7 +21,7 @@ This is a repository for organizing articles related to advancing beyond traditi
 ## Statistics
 
 | Direction | Person Re-ID | Vehicle Re-ID |
-|---           |---   |---|---|
+|---      |---|---|
 | All in one|  | 17 | 1 | 
 | One for all | | 7 | 0 | 
 | Privacy and Security |  | 13 | 0 | 
