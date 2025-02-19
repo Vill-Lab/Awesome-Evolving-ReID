@@ -107,11 +107,11 @@ This is a repository for organizing articles related to advancing beyond traditi
 ---
 
 ## Previous change history
-### :high_brightness: Updated 2025-02-14
-- The github page for "Awesome-Evovling-ReID" has been created.
+### :high_brightness: Updated 2025-02-19
+- The GitHub page for "Awesome-Evovling-ReID" has been created.
   
 ### :high_brightness: Updated 2025-02-14
-- The github page for "Awesome-Evovling-ReID" has been created.
+- The GitHub page for "Awesome-Evovling-ReID" has been created.
 
 
 **We will immediately reflect the matter if it should be corrected. We hope this github page helps many people with research purposes.**
