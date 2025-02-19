@@ -3,20 +3,11 @@ Evolving ReID: Harnessing Large Pre-trained Models, Multi-Task Learning, Privacy
 
 This is a repository for organizing articles related to advancing beyond traditional person re-identification methods. Most papers are linked to the pdf address provided by "arXiv" or "Openaccess". However, some papers require an academic license to browse. For example, IEEE, springer, and elsevier journal, etc.
 
+## Paper
 
-### :high_brightness: Other awesome re-identification
-- [Awesome Cross-Modality Person Re-Identification](https://github.com/bismex/Awesome-cross-modality-person-re-identification)
-- [Awesome Vehicle Re-Identification](https://github.com/bismex/Awesome-vehicle-re-identification)
 
-### :high_brightness: Other recommended related topics 
-- Trajectory prediction [[github1](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)] [[github2](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction)]
-- Multi-camera multi-object tracking (MCMOT) [[github1](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)] [[github2](https://github.com/SherryJYC/paper-MTMC)] [[workshop:AI-city-challange](https://www.aicitychallenge.org/)] [[workshop:MMP-Tracking](https://iccv2021-mmp.github.io/)]
 
-### :high_brightness: Updated 2024-06-17
-- I have revised the page to list the most recent conferences at the top.
-- CVPR2024, WACV2024, ECCV2023 papers are updated 
 
----
 
 ## Statistics
 
