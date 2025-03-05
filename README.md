@@ -156,9 +156,6 @@ This paper surveys the use of large pre-trained models and CLIP models for ReID,
 ## Previous change history
 ### :high_brightness: Updated 2025-02-19
 - The GitHub page for "Awesome-Evovling-ReID" has been created.
-  
-### :high_brightness: Updated 2025-02-14
-- The GitHub page for "Awesome-Evovling-ReID" has been created.
 
 ### :high_brightness: Updated 2025-02-21
 - We have updated the Large Pre-trained Models, the CLIP Models and datasets for ReID that are from 2021 to 2024.
